@@ -1,14 +1,15 @@
 # Golden State Warriors Sport Data API 
 
-This application allows the user to create, read, update, and destroy player data. I came up with this idea for the unit 2 project of General Assembly's software engineering immersive program. 
-
+This application allows the user to create, read, update, and destroy player data for their favorite team. I came up with this idea for the unit 2 project of General Assembly's software engineering immersive program. To begin, I have only crated players for one basketball team, but the intention is for this app to scale by allowing users to create new teams, add new players and new player data, and perhaps expand into other sports. The user can create user authentications by creating a login credentials, create and insert new player data, get one player, update player information, and destroy players.
 
 ## Important Links
 
 insert github link
 
 ## Planning Story
+The Suggested schedule helped guide the planning process of this project The schedule provided a framework and time line to tackle the project step by step. Initially, I created a wireframe to visualize what the client view would look like and begin building it out from there. 
 
+I started out with a user authentication form where the user could create an account with a user name and password, sign in to the player stats view and choose to create, read, update, or destroy. This was accomplished by incorporating Javascript,user input with jQuery and data storage using API calls. CRUD messaging was implemented to notify if the user created, updated, or destroyed a player successfully. Additional user feedback included sign-in/sign-out success and sign-in/sign-out failure. 
 
 
 ## User Stories
