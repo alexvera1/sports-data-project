@@ -50,4 +50,4 @@ insert github link
 
 
 ### ERD
-[ERD](https://imgur.com/kl2kwAn)
+[Imgur](https://imgur.com/c25nAPe)
