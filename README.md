@@ -4,7 +4,8 @@ This application allows the user to create, read, update, and destroy player dat
 
 ## Important Links
 
-insert github link
+(https://alexvera1.github.io/sports-data-client)
+
 
 ## Planning Story
 The Suggested schedule helped guide the planning process of this project The schedule provided a framework and time line to tackle the project step by step. Initially, I created a wireframe to visualize what the client view would look like and begin building it out from there. 
@@ -24,7 +25,7 @@ I started out with a user authentication form where the user could create an acc
 * As a user I want to Update a player
 * As a user I want to Delete a player
 
-
+code .
 ## Technologies Used
 
 * Javascript
